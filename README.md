@@ -20,4 +20,5 @@ Here's how you can get involved:
 For any questions or collaboration opportunities, feel free to contact us at:
 
 Email: codingclub@iisertvm.ac.in
+
 Website: https://snt-iiser-tvm.github.io/codingclub/index.html
