@@ -16,7 +16,7 @@ Contact a Member: Reach out to any core member of the Coding Club to introduce y
 
 
 ## Contact
-For any questions or collaboration opportunities, feel free to contact us at:
+For any questions or collaboration opportunities, feel free to contact us at:/n
 
 Email: codingclub@iisertvm.ac.in
 Website: https://snt-iiser-tvm.github.io/codingclub/index.html
